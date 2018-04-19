@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "John Sullivan"
+title                    : "Your Name"
 title_separator          : "-"
-name                     : "John Sullivan"
+name                     : "Your Name"
 description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -84,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "John Sullivan"
+  name             : "Your Name"
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
-  location         : "Boston, MA"
+  location         : "Your Location"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dataoptimal"
+  github           : "Your Github"
   gitlab           :
   google_plus      :
   keybase          :
