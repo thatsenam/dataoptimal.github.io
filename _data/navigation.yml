@@ -2,8 +2,15 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Machine Learning"
-    url: /machine-learning/
+  - title: "Experience"
+    url: /experience/
+  - title: "Blog Posts"
+    url: /data-wrangling/
+  - title: "Education"
+    url: /EducationalBackground/
+  - title: "Awards"
+    url: /awards/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name"
+title                    : "James Young"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "James Young"
 description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -84,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "James Young"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
-  location         : "Your Location"
+  location         : "Brookings, SD, USA"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Your Github"
+  github           : "https://github.com/jamesyoung93"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "dataoptimal" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "jamesyoungsd" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -117,7 +117,7 @@ author:
 
 
 # Reading Files
-include:
+include: 
   - .htaccess
   - _pages
 exclude:
@@ -154,7 +154,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown
+markdown: CommonMarkGhPages
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
